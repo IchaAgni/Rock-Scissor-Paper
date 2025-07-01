@@ -42,6 +42,7 @@ Model mencapai akurasi validasi lebih dari **90%**, tergantung jumlah epoch dan 
 ## 📂 Struktur Proyek
 
   rock-scissor-classification/ 
+  
   │
 
   ├── Submission_Belajar_ML_untuk_Pemula.ipynb # Notebook utama
