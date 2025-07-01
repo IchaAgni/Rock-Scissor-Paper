@@ -40,9 +40,10 @@ Model dikompilasi menggunakan:
 Model mencapai akurasi validasi lebih dari **90%**, tergantung jumlah epoch dan augmentasi yang digunakan.
 
 ## 📂 Struktur Proyek
+
   rock-scissor-classification/ 
   │
-  
+
   ├── Submission_Belajar_ML_untuk_Pemula.ipynb # Notebook utama
   
   ├── README.md # Dokumentasi ini
